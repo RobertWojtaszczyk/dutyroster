@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.rw.dutyroster",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "monolith",
+    "baseName": "dutyroster",
+    "packageName": "com.rw.dutyroster",
+    "packageFolder": "com/rw/dutyroster",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Yzg2MzhmNzY2NzMzNjczM2Y1ZTA0NDk2OWI0ZTMzNDJmYzkxNDZhMmIyMzFhOTIwNTIyZTUxMjk3MDJiYjYzNmMxNjA1YWU2NDE0MDMyN2JiOTFlZDE3YjlmM2U3ODA2NTBjOWQwMTNmZGY1NTBhZDlhMDE1MDI3OWMxNDMzNTA=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "pl"]
+  }
+}
